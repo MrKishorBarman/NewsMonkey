@@ -1,8 +1,0 @@
-react infinite scroll component
-terminal------>npm i react-infinite-scroll-component 
-pasting the using-section in the heading of the news component
-using live examples
-
-
- react top loading bar
- importing in App.js
